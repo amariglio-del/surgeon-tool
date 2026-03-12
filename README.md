@@ -1,2 +1,2 @@
 # surgeon-tool
-Lexington surgeon Tx targeting tool
+Lexington surgeon targeting tool
